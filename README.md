@@ -1,4 +1,5 @@
-![Coding GIF](https://user-images.githubusercontent.com/https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+![Coding GIF](https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif)
+
 
 # 📊 GitHub Stats
 
