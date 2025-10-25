@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hadley
+# 😎 Hi, I'm Hadley
 
 ![Coding GIF](https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif)
 
