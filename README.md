@@ -4,6 +4,6 @@
 
 
 # 📊 GitHub Stats
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&layout=compact&custom_title=Most%20used%20languages&langs_count=8&include_all_commits=true&hide_progress=false&hide_border=true&hide=CSS,SCSS&theme=transparent"/>
 
 <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=transparent"/>
