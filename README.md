@@ -3,12 +3,12 @@
 
 
 
-# 📊 GitHub Stats
+# 🔑 GitHub Stats
 <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=transparent"/>
 
 
 
-# 🖥️ Technologies
+# 🛠️ Technologies
 
 
 ### Databases
