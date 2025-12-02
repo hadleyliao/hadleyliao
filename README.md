@@ -4,7 +4,6 @@
 
 
 # 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&layout=compact&theme=transparent)
-<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&layout=compact&theme=dark"/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=dark) 
+<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=dark"/>
