@@ -4,6 +4,4 @@
 
 
 # 📊 GitHub Stats
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&theme=dark"/>
-
 <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=transparent"/>
