@@ -7,8 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadleyliao&layout=compact&theme=transparent)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hadleyliao&show_icons=true&theme=radical) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=dark) 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hadleyliao&theme=flat)
+
+
+![WakaTime stats](https://wakatime.com/share/@username/abcdef12345.svg) 
+![activity graph](https://activity-graph.herokuapp.com/graph?username=hadleyliao&theme=react-dark)
+
 
 
