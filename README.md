@@ -7,7 +7,6 @@
 
 # 🥐 GitHub Stats
 <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=hadleyliao&theme=transparent"/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadleyliao)
 
 
 # 🥨 Technologies
