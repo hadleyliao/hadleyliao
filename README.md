@@ -1,7 +1,7 @@
 # 🍞 Heyy there, I'm Hadley. I'm in CS.
 ![Coding GIF](https://i.pinimg.com/originals/85/ab/25/85ab25de8b6f24575d3d65c0540176f1.gif)
 
-# 🎵 My music CREATION
+# 🎵 My AI music creation
 [![YouTube Video](https://img.youtube.com/vi/4NyEkIjZpDU/0.jpg)](https://youtube.com/shorts/4NyEkIjZpDU)
   
 
